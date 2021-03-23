@@ -3,3 +3,11 @@
 3/22/2021 - I decided to essentially scrap all my previous work on this project (see the Deprecated folder) and start from scratch with the midterm presentation in three days. While I normally would say that this is a horrible plan, this is actually working out okay. I feel less stressed and more interested in this project than I have in a long while. I think my struggles with the Delphi Epidata API (covidcast) and the massive amounts of information it provided was overloading my brain. I've now selected a handful of datasets from the CDC and the U.S. Bureau of Labor Statistics. I may revisit the covidcast API at a later date for some extra data, but I'm laying that to rest for now.
 
 The new plan is to rapidly clean my new data and create some visualizations that will look nice in our presentation. I am considering compiling a couple of the csv files into one and then loading that on Tableau for some really nice graphics, but that depends if I have the time to learn more on how to work Tableau.
+
+Here are the links to the datasets for documentation purposes:
+* https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Week-Ending-D/r8kw-7aab
+* https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36
+* All states (plus Puerto Rico and District of Columbia) umeployment 2019-2020 (seasonally adjusted) - https://beta.bls.gov/dataViewer/view
+* Illinois unemployment 2020 (seasonally adjusted) - https://beta.bls.gov/dataViewer/view/timeseries/LASST170000000000003
+
+For the BLS unemployment data, I made sure that the two listed above are seasonally adjusted.
