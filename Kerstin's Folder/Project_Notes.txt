@@ -7,7 +7,7 @@ The new plan is to rapidly clean my new data and create some visualizations that
 Here are the links to the datasets for documentation purposes:
 * https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Week-Ending-D/r8kw-7aab
 * https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36
-* All states (plus Puerto Rico and District of Columbia) umeployment 2019-2020 (seasonally adjusted) - https://beta.bls.gov/dataViewer/view
+* All states (plus Puerto Rico and District of Columbia) umeployment 2019-2020 (seasonally adjusted) - https://beta.bls.gov/dataViewer/view/613c964322424efea9e49069abe335e8
 * Illinois unemployment 2020 (seasonally adjusted) - https://beta.bls.gov/dataViewer/view/timeseries/LASST170000000000003
 
 For the BLS unemployment data, I made sure that the two listed above are seasonally adjusted.
