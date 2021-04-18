@@ -11,3 +11,33 @@ Here are the links to the datasets for documentation purposes:
 * Illinois unemployment 2020 (seasonally adjusted) - https://beta.bls.gov/dataViewer/view/timeseries/LASST170000000000003
 
 For the BLS unemployment data, I made sure that the two listed above are seasonally adjusted.
+
+
+4/18/2021- I added a new dataset to my project. Unfortunately, I can't get the URL for this dataset because I queried the CDC database and a permanent URL wasn't createdd like I hoped. I will include the CDC citation info here, though, just in case. I'll also include the URL to the query page.
+
+Query Page URL: https://wonder.cdc.gov/controller/datarequest/D76;jsessionid=A0DDE7C21C0C596124544ED22C37
+
+Citation: 
+Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death 1999-2019 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2019, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Apr 18, 2021 5:53:21 PM
+
+Query Criteria:
+Title: Number of Pneumonia Deaths in 2019 in Illinois
+ICD-10 Codes: J12.0 (Adenoviral pneumonia); J12.1 (Respiratory syncytial virus pneumonia); J12.2 (Parainfluenza virus pneumonia); J12.3 (Human metapneumovirus pneumonia); J12.8 (Other viral pneumonia); J12.9 (Viral pneumonia, unspecified); J13 (Pneumonia due to Streptococcus pneumoniae); J14 (Pneumonia due to Haemophilus influenzae); J15.0 (Pneumonia due to Klebsiella pneumoniae); J15.1 (Pneumonia due to Pseudomonas); J15.2 (Pneumonia due to staphylococcus); J15.3 (Pneumonia due to streptococcus, group B); J15.4 (Pneumonia due to other streptococci); J15.5 (Pneumonia due to Escherichia coli); J15.6 (Pneumonia due to other aerobic Gram-negative bacteria); J15.7 (Pneumonia due to Mycoplasma pneumoniae); J15.8 (Other bacterial pneumonia); J15.9 (Bacterial pneumonia, unspecified); J16.0 (Chlamydial pneumonia); J16.8 (Pneumonia due to other specified infectious organisms); J18.0 (Bronchopneumonia, unspecified); J18.1 (Lobar pneumonia, unspecified); J18.2 (Hypostatic pneumonia, unspecified); J18.8 (Other pneumonia, organism unspecified); J18.9 (Pneumonia, unspecified)
+States: Illinois (17)
+Year/Month: 2019
+Group By: Month
+Show Totals: True
+Show Zero Values: False
+Show Suppressed: False
+Calculate Rates Per: 100,000
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)
+
+Documentation: https://wonder.cdc.gov/wonder/help/ucd.html
+
+
+
+
+
+
+
+
