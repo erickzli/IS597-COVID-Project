@@ -35,6 +35,9 @@ Rate Options: Default intercensal populations for years 2001-2009 (except Infant
 Documentation: https://wonder.cdc.gov/wonder/help/ucd.html
 
 
+4/25/2021 - 
+national income and product accounts (2019, 2020) - https://apps.bea.gov/iTable/iTable.cfm?reqid=19&step=3&isuri=1&nipa_table_list=86&categories=survey
+https://apps.bea.gov/iTable/iTable.cfm?reqid=19&step=3&isuri=1&nipa_table_list=58&categories=survey
 
 
 
