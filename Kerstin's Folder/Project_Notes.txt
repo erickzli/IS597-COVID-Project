@@ -39,7 +39,8 @@ Documentation: https://wonder.cdc.gov/wonder/help/ucd.html
 national income and product accounts (2019, 2020) - https://apps.bea.gov/iTable/iTable.cfm?reqid=19&step=3&isuri=1&nipa_table_list=86&categories=survey
 https://apps.bea.gov/iTable/iTable.cfm?reqid=19&step=3&isuri=1&nipa_table_list=58&categories=survey
 
-
+4/27/2021 - 
+https://beta.bls.gov/dataViewer/view/timeseries/CES0500000002 - the average weekly hours all US employees work in the private sector. The dataset is seasonally adjusted.
 
 
 
