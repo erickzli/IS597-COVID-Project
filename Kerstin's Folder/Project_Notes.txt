@@ -48,3 +48,12 @@ https://beta.bls.gov/dataViewer/view/timeseries/CES0500000002 - the average week
 
 
 
+
+
+
+
+
+
+
+
+
