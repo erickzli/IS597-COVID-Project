@@ -42,6 +42,9 @@ https://apps.bea.gov/iTable/iTable.cfm?reqid=19&step=3&isuri=1&nipa_table_list=5
 4/27/2021 - 
 https://beta.bls.gov/dataViewer/view/timeseries/CES0500000002 - the average weekly hours all US employees work in the private sector. The dataset is seasonally adjusted.
 
+4/28/2021 -
+- https://cmu-delphi.github.io/delphi-epidata/api/covidcast-signals/safegraph.html - the SafeGraph data from the covidcast API. The signals I'm pulling from are completely_home_prop_7dav, full_time_work_prop_7dav, and part_time_work_prop_7dav.
+
 
 
 
